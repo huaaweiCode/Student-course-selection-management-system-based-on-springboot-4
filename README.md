@@ -66,9 +66,3 @@
 ![学生选课](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205272011158.jpg)
 
 学生可以查看所有待选课程，并选修课程。还能查看自己的成绩等功能
-
-## 5、获取方式
-
-下方扫一下，回复关键词**选课4**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205272214231.png)
